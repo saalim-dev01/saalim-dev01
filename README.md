@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# I AM SALIM MASROOR A 17 YEAR ASPIRING ARTIFICIAL INTELLEGENCE AND MACHINE LEARNING LEARNER/STUDENT AND FINANCE LEARNERS
+
 <!--
 **saalim-dev01/saalim-dev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
